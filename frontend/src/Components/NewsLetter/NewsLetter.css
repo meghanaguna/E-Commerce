@@ -33,13 +33,11 @@
     
 }
 .newsletter button{
-    font-size:22px;
-    font-weight:500;
-    width:282px;
+    font-size:16px;
+    width:210px;
     height:70px;
-    border-radius: 35px;
-    background:#ff4141;
-    border:none;
+    border-radius: 80px;
+    background:black;
     color: white;
     cursor:pointer;
 }
