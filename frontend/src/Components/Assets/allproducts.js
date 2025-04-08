@@ -29,7 +29,7 @@ import sneakers from './sneakers.png';
 import turtleneck_sweater from './turtleneck_sweater.png';
 
 
-let data_product=[
+let all_products=[
   {
     "id": 1,
     "name": "Casual Shirt",
@@ -264,4 +264,4 @@ let data_product=[
   }
 ]
 
-export default data_product;
+export default all_products;

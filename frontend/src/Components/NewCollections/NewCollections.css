@@ -18,6 +18,8 @@
     gap:20px;
 } */
 .collections{
-    margin-top:10px;
-    gap:20px;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    margin-left:30px;
 }
