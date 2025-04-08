@@ -22,7 +22,7 @@ export default function Hero() {
                 <img src={arrow_icon} alt='' className='arrow-icon'/>
             </div>
         </div>
-        <div className="hero-right d-flex align-items-center justify-content-center">
+        <div className="hero-right align-items-center justify-content-center">
             <img src={hero_image} alt='' className='hero-image'/>
         </div>
     </div>
