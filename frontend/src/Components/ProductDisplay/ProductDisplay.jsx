@@ -13,7 +13,7 @@ const ProductDisplay = (props) => {
   return (
     <div className='productdisplay d-flex'>
         <div className="productdisplay-left d-flex">
-            <div className="productdisplay-img-list d-flex flex-column">
+            <div className="productdisplay-img-list">
                 <img src={product.image} alt=""/>
                 <img src={product.image} alt=""/>
                 <img src={product.image} alt=""/>
